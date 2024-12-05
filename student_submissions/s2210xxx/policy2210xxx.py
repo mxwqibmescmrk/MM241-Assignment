@@ -4,6 +4,8 @@ from policy import Policy
 def Policy2210xxx(Policy):
     def __init__(self):
         # Student code here
+        # test folk
+        
         pass
 
     def get_action(self, observation, info):
