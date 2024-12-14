@@ -2,7 +2,7 @@ from policy import Policy
 import numpy as np
 from scipy.optimize import linprog
 
-class policy2320001_2312119_2312065_2312696_2312861(Policy):
+class Policy2320001_2312119_2312065_2312696_2312861(Policy):
     #####################khai bao gen_col################################
     columns = []
     size = []
